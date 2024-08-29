@@ -14,7 +14,7 @@ import Onedrive from '../assets/onedrive.png';
 
 const Skills = () => {
   return (
-    <div name='skills' className='w-full min-h-screen bg-[#0a192f] text-gray-300 pt-[100px]'>
+    <div name='skills' className='w-full min-h-screen bg-[#0a192f] text-gray-300 pt-[75px]'>
         {/* Container */}
         <div className='max-w-[1200px] mx-auto p-4 flex flex-col'>
             <div>

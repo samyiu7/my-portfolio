@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div
       name="home"
-      className="w-full h-screen bg-[#0a192f] flex flex-col lg:flex-row items-center pt-[100px]"
+      className="w-full min-h-screen bg-[#0a192f] flex flex-col lg:flex-row items-center pt-[75px]"
     >
       {/* Container */}
       <div className="lg:w-3/5 lg:mx-11 mx-auto px-4 flex flex-col justify-center h-screen order-2 lg:order-1 text-left">
